@@ -1,0 +1,10 @@
+# Ignorar archivos multimedia descargados
+*.mp4
+*.mp3
+*.m4a
+*.webm
+*.mkv
+
+# Ignorar ejecutables
+yt-dlp.exe
+ffmpeg.exe
